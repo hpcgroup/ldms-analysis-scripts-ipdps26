@@ -1,1 +1,0 @@
-# Scripts for the variability prediction paper
